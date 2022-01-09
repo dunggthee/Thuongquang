@@ -39,22 +39,22 @@
 
 {"name": "Camera 360 ++",
 "version": "9.9.33",
-"downloadURL": "https://dl.dropboxusercontent.com/s/wnwojpp0wt5mjwn/Camera360%2B%2B_9.9.33_LeTi.ipa?dl=0",
+"downloadURL": "https://dl.dropboxusercontent.com/s/6vt297u6r9xcb3r/Camera360_Vip_9.9.33_1641723139.ipa?dl=0",
 "iconURL": "https://raw.githubusercontent.com/Nguyenhuyhoan/icons/main/Camera360.png"},
 
 {"name": "Happy Chick",
 "version": "1.5.8.2",
-"downloadURL": "https://dl.dropboxusercontent.com/s/bxsjuttfrcobnag/HappyChick_1.5.8.2NewApp.vn.ipa?dl=0",
+"downloadURL": "https://dl.dropboxusercontent.com/s/o48h87qkypro0x6/Happy_Chik_1.5.8.2_1641723110.ipa?dl=0",
 "iconURL": "https://raw.githubusercontent.com/Nguyenhuyhoan/icons/main/HappyChick.png"},
 
 {"name": "Peachy Pro",
-"version": "1.26.9",
-"downloadURL": "https://dl.dropboxusercontent.com/s/51znmou6fi0rkvr/Peachy.Pro1.26.0NewApp.vn.ipa?dl=0",
+"version": "1.26.0",
+"downloadURL": "https://dl.dropboxusercontent.com/s/6enfedsv8202sef/Peachy_1.26.0_1641723025.ipa?dl=0",
 "iconURL": "https://raw.githubusercontent.com/Nguyenhuyhoan/icons/main/Peachy.png"},
 
 {"name": "TikTok Trung Quốc",
 "version": "19.0.0",
-"downloadURL": "https://dl.dropboxusercontent.com/s/ea10oc9mwpszdoz/TiktokTQ.19.0.0NewApp.vn.ipa?dl=0",
+"downloadURL": "https://dl.dropboxusercontent.com/s/l9cuz9aq7jun66q/Tiktok_TQ_19.0.0_1641722995.ipa?dl=0",
 "iconURL": "https://raw.githubusercontent.com/Nguyenhuyhoan/icons/main/Tiktok.png"},
 
 {"name": "Viva Video ++",
@@ -67,11 +67,6 @@
 "downloadURL": "https://dl.dropboxusercontent.com/s/0fp04251j0lbr4b/Zalo2_210902_LeTi.ipa?dl=0",
 "iconURL": "https://raw.githubusercontent.com/Nguyenhuyhoan/icons/main/Zalo.png"},
 
-{"name": "Adguatd Pro",
-"version": "4.3.1",
-"downloadURL": "https://dl.dropboxusercontent.com/s/40u43ggqc4xrq9b/AdGuard_Pro_4.3.1.ipa?dl=0",
-"iconURL": "https://raw.githubusercontent.com/Nguyenhuyhoan/icons/main/Adguard.png"},
-
 {"name": "Twiter++",
 "version": "8.94",
 "downloadURL": "https://dl.dropboxusercontent.com/s/jm0ebi8kt2bw1ov/BHTwitterPlus_8.94_2.9.ipa?dl=0",
@@ -82,20 +77,10 @@
 "downloadURL": "https://dl.dropboxusercontent.com/s/mz2v1vxbli3depo/FacebookPlus_145.0_v1.6r-35.ipa?dl=0",
 "iconURL": "https://raw.githubusercontent.com/Nguyenhuyhoan/icons/main/Facebook.png"},
 
-{"name": "Kine Master",
-"version": "4.13.5",
-"downloadURL": "https://dl.dropboxusercontent.com/s/ucjbdudnkcvavj0/KineMaster_4.13.5_LeTi.ipa?dl=0",
-"iconURL": "https://raw.githubusercontent.com/Nguyenhuyhoan/icons/main/KineMaster.png"},
-
 {"name": "Nhạc Của Tao Vip",
 "version": "6.2.6",
-"downloadURL": "https://dl.dropboxusercontent.com/s/qn43dm7nyzhc0i1/Nhaccuatui_vip_6.2.6.ipa?dl=0",
+"downloadURL": "https://dl.dropboxusercontent.com/s/b5e5vwvtzywm2df/Nhac_Cua_Tao_6.2.6_1641722699.ipa?dl=0",
 "iconURL": "https://raw.githubusercontent.com/Nguyenhuyhoan/icons/main/Nhaccuatui.png"},
-
-{"name": "PlankFilza",
-"version": "——",
-"downloadURL": "https://dl.dropboxusercontent.com/s/6ws7izyx84awk7s/PlankFilza.ipa?dl=0",
-"iconURL": "https://raw.githubusercontent.com/Nguyenhuyhoan/icons/main/Filza.png"},
 
 {"name": "Player Xtreme Pro",
 "version": "8.7",
@@ -105,6 +90,11 @@
 {"name": "Zing Play",
 "version": "1.0",
 "downloadURL": "https://dl.dropboxusercontent.com/s/4j3wesx8sgb9yrg/ZingPlay_1.0.ipa?dl=0",
+"iconURL": "https://raw.githubusercontent.com/Nguyenhuyhoan/icons/main/Zingplay.png"},
+
+{"name": "Chia Sẽ Nhạc",
+"version": "——",
+"downloadURL": "https://dl.dropboxusercontent.com/s/9joehia9bc0uw91/Chiasenhac.ipa?dl=0 dl=0",
 "iconURL": "https://raw.githubusercontent.com/Nguyenhuyhoan/icons/main/Zingplay.png"},
 
 {"name": "iNDS",
