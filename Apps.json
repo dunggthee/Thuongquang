@@ -4,20 +4,9 @@
 	"sourceURL": "https://burritosoftware.github.io/altstore/channels/burritosource.json",
 	"apps": [{
 			"name": "YouTube",
-			"version": "1.10.7",
-			"versionDate": "2020-02-10",
+			"version": "16.46.5",
 			"downloadURL": "https://dl.dropboxusercontent.com/s/7sh9iaz2tbgpiyu/MyTube_Cercube.ipa?dl=1",
-			"iconURL": "https://br.atsit.in/vi/wp-content/uploads/2021/07/cach-tao-vong-lap-video-youtube-tren-iphone-va-ipad-11.jpg",
-			"tintColor": "FC2125",
-			"size": 857669,
-			"permissions": [{
-				"type": "photos",
-				"usageDescription": "Allows iNDS to use images from your Photo Library as game artwork."
-			}],
-			"screenshotURLs": [
-				"https://static.appdb.to/images/cydia-1900000021-iphone-0.png",
-				"https://static.appdb.to/images/cydia-1900000021-iphone-1.png",
-				"https://static.appdb.to/images/cydia-1900000021-iphone-2.png"
+			"iconURL": "https://br.atsit.in/vi/wp-content/uploads/2021/07/cach-tao-vong-lap-video-youtube-tren-iphone-va-ipad-11.jpg"}],
 			]
         },
 		{
