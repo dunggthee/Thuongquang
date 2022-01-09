@@ -10,26 +10,26 @@
 {"name": "Spotify++",
 "version": "8.5.77",
 "downloadURL": "https://dl.dropboxusercontent.com/s/49p7x6tzups89il/Spotify_8.5.77_1641618108.ipa?dl=0",
-"iconURL": "https://inds.nerd.net/Resources/required/AppIcon256.png"},
+"iconURL": "https://cdn-icons-png.flaticon.com/512/174/174872.png"},
 
 {"name": "unc0ver",
 "version": "8.0.2",
 "downloadURL": "https://dl.dropboxusercontent.com/s/w1xx87nfb7xyzv0/unc0ver_8.0.2_1641617997.ipa?dl=0",
-"iconURL": "https://inds.nerd.net/Resources/required/AppIcon256.png"},
+"iconURL": "https://tweak-box.com/wp-content/uploads/2019/04/unc0ver-jailbreak.png"},
 
 {"name": "Delta",
 "version": "1.1.2",
 "downloadURL": "https://dl.dropboxusercontent.com/s/nvcpr98ts8t5sqi/Delta_1.1.2_1641619703.ipa?dl=0",
+"iconURL": "https://iosninja.io/img/ipas/delta.png"},
+
+{"name": "RAR Power",
+"version": "3.2.4",
+"downloadURL": "https://dl.dropboxusercontent.com/s/5e7dzddreofg42s/RAW%20Power_3.2.4_1641649181.ipa?dl=0",
 "iconURL": "https://inds.nerd.net/Resources/required/AppIcon256.png"},
 
-{"name": "iNDS",
+{"name": "App Install",
 "version": "1.10.7",
-"downloadURL": "https://github.com/iNDS-Team/iNDS/releases/download/v1.10.7/iNDS.ipa",
-"iconURL": "https://inds.nerd.net/Resources/required/AppIcon256.png"},
-
-{"name": "iNDS",
-"version": "1.10.7",
-"downloadURL": "https://github.com/iNDS-Team/iNDS/releases/download/v1.10.7/iNDS.ipa",
+"downloadURL": "https://dl.dropboxusercontent.com/s/a4u326d2bc9v152/AppInst.ipa?dl=0",
 "iconURL": "https://inds.nerd.net/Resources/required/AppIcon256.png"},
 
 {"name": "iNDS",
