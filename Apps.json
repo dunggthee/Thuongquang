@@ -82,11 +82,6 @@
 "downloadURL": "https://dl.dropboxusercontent.com/s/jab487yjog60j6z/PlayerXtreme_8.7.ipa?dl=0",
 "iconURL": "https://raw.githubusercontent.com/Nguyenhuyhoan/icons/main/PlayerEtreme.png"},
 
-{"name": "Zing Play",
-"version": "1.0",
-"downloadURL": "https://dl.dropboxusercontent.com/s/4j3wesx8sgb9yrg/ZingPlay_1.0.ipa?dl=0",
-"iconURL": "https://raw.githubusercontent.com/Nguyenhuyhoan/icons/main/Zingplay.png"},
-
 {"name": "Chia Sẽ Nhạc",
 "version": "1.5",
 "downloadURL": "https://dl.dropboxusercontent.com/s/9joehia9bc0uw91/Chiasenhac.ipa?dl=0 dl=0",
@@ -101,6 +96,16 @@
 "version": "7.2.2",
 "downloadURL": "https://dl.dropboxusercontent.com/s/nim3f2jqgr1lqwk/appcake.ipa?dl=0",
 "iconURL": "https://raw.githubusercontent.com/Nguyenhuyhoan/icons/main/Appcake.png"},
+
+{"name": "iNDS",
+"version": "1.10.7",
+"downloadURL": "https://github.com/iNDS-Team/iNDS/releases/download/v1.10.7/iNDS.ipa",
+"iconURL": "https://raw.githubusercontent.com/Nguyenhuyhoan/icons/main/Test.png"},
+
+{"name": "iNDS",
+"version": "1.10.7",
+"downloadURL": "https://github.com/iNDS-Team/iNDS/releases/download/v1.10.7/iNDS.ipa",
+"iconURL": "https://raw.githubusercontent.com/Nguyenhuyhoan/icons/main/Test.png"},
 
 {"name": "iNDS",
 "version": "1.10.7",
