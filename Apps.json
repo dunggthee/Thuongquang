@@ -62,9 +62,44 @@
 "downloadURL": "https://dl.dropboxusercontent.com/s/0fp04251j0lbr4b/Zalo2_210902_LeTi.ipa?dl=0",
 "iconURL": "https://raw.githubusercontent.com/Nguyenhuyhoan/icons/main/Zalo.png"},
 
-{"name": "iNDS",
-"version": "1.10.7",
-"downloadURL": "https://github.com/iNDS-Team/iNDS/releases/download/v1.10.7/iNDS.ipa",
+{"name": "Adguatd Pro",
+"version": "4.3.1",
+"downloadURL": "https://dl.dropboxusercontent.com/s/40u43ggqc4xrq9b/AdGuard%20Pro_4.3.1_Robert%20.ipa?dl=0",
+"iconURL": "https://inds.nerd.net/Resources/required/AppIcon256.png"},
+
+{"name": "Twiter++",
+"version": "8.94",
+"downloadURL": "https://dl.dropboxusercontent.com/s/jm0ebi8kt2bw1ov/BHTwitterPlus_8.94_2.9.ipa?dl=0",
+"iconURL": "https://inds.nerd.net/Resources/required/AppIcon256.png"},
+
+{"name": "Facebook++",
+"version": "145.0",
+"downloadURL": "https://dl.dropboxusercontent.com/s/mz2v1vxbli3depo/FacebookPlus_145.0_v1.6r-35.ipa?dl=0",
+"iconURL": "https://inds.nerd.net/Resources/required/AppIcon256.png"},
+
+{"name": "Kine Master",
+"version": "4.13.5",
+"downloadURL": "https://dl.dropboxusercontent.com/s/ucjbdudnkcvavj0/KineMaster_4.13.5_LeTi.ipa?dl=0",
+"iconURL": "https://inds.nerd.net/Resources/required/AppIcon256.png"},
+
+{"name": "Nhạc Của Tao Vip",
+"version": "6.2.6",
+"downloadURL": "https://dl.dropboxusercontent.com/s/qn43dm7nyzhc0i1/Nhaccuatui_vip_6.2.6.ipa?dl=0",
+"iconURL": "https://inds.nerd.net/Resources/required/AppIcon256.png"},
+
+{"name": "PlankFilza",
+"version": "——",
+"downloadURL": "https://dl.dropboxusercontent.com/s/6ws7izyx84awk7s/PlankFilza.ipa?dl=0",
+"iconURL": "https://inds.nerd.net/Resources/required/AppIcon256.png"},
+
+{"name": "Player Xtreme Pro",
+"version": "8.7",
+"downloadURL": "https://dl.dropboxusercontent.com/s/jab487yjog60j6z/PlayerXtreme_8.7.ipa?dl=0",
+"iconURL": "https://inds.nerd.net/Resources/required/AppIcon256.png"},
+
+{"name": "Zing Play",
+"version": "1.0",
+"downloadURL": "https://dl.dropboxusercontent.com/s/4j3wesx8sgb9yrg/ZingPlay_1.0.ipa?dl=0",
 "iconURL": "https://inds.nerd.net/Resources/required/AppIcon256.png"},
 
 {"name": "iNDS",
