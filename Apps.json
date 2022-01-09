@@ -4,7 +4,7 @@
 
 {"name": "Cercube",
 "version": "16.46.5",
-"downloadURL": "https://dl.dropboxusercontent.com/s/7sh9iaz2tbgpiyu/MyTube_Cercube.ipa?dl=1",
+"downloadURL": "https://dl.dropboxusercontent.com/s/7sh9iaz2tbgpiyu/MyTube_Cercube.ipa?dl=0",
 "iconURL": "https://raw.githubusercontent.com/Nguyenhuyhoan/icons/main/Cercube.png"},
 
 {"name": "Cercube Max",
@@ -59,18 +59,13 @@
 
 {"name": "Viva Video ++",
 "version": "8.7.3",
-"downloadURL": "https://dl.dropboxusercontent.com/s/uugclrtw5ekkg5h/VivaVideo%2B%2B_8.7.3_LeTi.ipa?dl=0",
+"downloadURL": "https://dl.dropboxusercontent.com/s/uugclrtw5ekkg5h/VivaVideo_Vip_8.7.3_LeTi.ipa?dl=0",
 "iconURL": "https://raw.githubusercontent.com/Nguyenhuyhoan/icons/main/VivaVideo.png"},
 
 {"name": "Zalo 2",
 "version": "210902",
-"downloadURL": "https://dl.dropboxusercontent.com/s/0fp04251j0lbr4b/Zalo2_210902_LeTi.ipa?dl=0",
+"downloadURL": "https://dl.dropboxusercontent.com/s/0fp04251j0lbr4b/Zalo_2_210902.ipa?dl=0",
 "iconURL": "https://raw.githubusercontent.com/Nguyenhuyhoan/icons/main/Zalo.png"},
-
-{"name": "Twiter++",
-"version": "8.94",
-"downloadURL": "https://dl.dropboxusercontent.com/s/jm0ebi8kt2bw1ov/BHTwitterPlus_8.94_2.9.ipa?dl=0",
-"iconURL": "https://raw.githubusercontent.com/Nguyenhuyhoan/icons/main/Twiter.png"},
 
 {"name": "Facebook++",
 "version": "145.0",
@@ -93,19 +88,34 @@
 "iconURL": "https://raw.githubusercontent.com/Nguyenhuyhoan/icons/main/Zingplay.png"},
 
 {"name": "Chia Sẽ Nhạc",
-"version": "——",
+"version": "1.5",
 "downloadURL": "https://dl.dropboxusercontent.com/s/9joehia9bc0uw91/Chiasenhac.ipa?dl=0 dl=0",
+"iconURL": "https://raw.githubusercontent.com/Nguyenhuyhoan/icons/main/Chiasenhac.png"},
+
+{"name": "Zing Play",
+"version": "1.0",
+"downloadURL": "https://dl.dropboxusercontent.com/s/4j3wesx8sgb9yrg/ZingPlay_1.0.ipa?dl=0",
 "iconURL": "https://raw.githubusercontent.com/Nguyenhuyhoan/icons/main/Zingplay.png"},
 
 {"name": "iNDS",
 "version": "1.10.7",
 "downloadURL": "https://github.com/iNDS-Team/iNDS/releases/download/v1.10.7/iNDS.ipa",
-"iconURL": "https://raw.githubusercontent.com/Nguyenhuyhoan/icons/main/Zingplay.png"},
+"iconURL": "https://raw.githubusercontent.com/Nguyenhuyhoan/icons/main/Test.png"},
 
-{"name": "Zing Play",
-"version": "1.0",
-"downloadURL": "https://dl.dropboxusercontent.com/s/4j3wesx8sgb9yrg/ZingPlay_1.0.ipa?dl=0",
-"iconURL": "https://raw.githubusercontent.com/Nguyenhuyhoan/icons/main/Zingplay.png"}
+{"name": "iNDS",
+"version": "1.10.7",
+"downloadURL": "https://github.com/iNDS-Team/iNDS/releases/download/v1.10.7/iNDS.ipa",
+"iconURL": "https://raw.githubusercontent.com/Nguyenhuyhoan/icons/main/Test.png"},
+
+{"name": "iNDS",
+"version": "1.10.7",
+"downloadURL": "https://github.com/iNDS-Team/iNDS/releases/download/v1.10.7/iNDS.ipa",
+"iconURL": "https://raw.githubusercontent.com/Nguyenhuyhoan/icons/main/Test.png"},
+
+{"name": "iNDS",
+"version": "1.10.7",
+"downloadURL": "https://github.com/iNDS-Team/iNDS/releases/download/v1.10.7/iNDS.ipa",
+"iconURL": "https://raw.githubusercontent.com/Nguyenhuyhoan/icons/main/Test.png"}
 
 ]}
 
