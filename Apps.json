@@ -1,5 +1,5 @@
 {
-	"name": "JSON BY THƯỜNG QUANG",
+	"name": "APPS BY THƯỜNG QUANG",
 	"apps": [
 
 {"name": "Cercube",
@@ -35,7 +35,7 @@
 {"name": "Camera 360 ++",
 "version": "9.9.33",
 "downloadURL": "https://dl.dropboxusercontent.com/s/wnwojpp0wt5mjwn/Camera360%2B%2B_9.9.33_LeTi.ipa?dl=0",
-"iconURL": "https://inds.nerd.net/Resources/required/AppIcon256.png"},
+"iconURL": "https://raw.githubusercontent.com/Nguyenhuyhoan/icons/main/Camera360.png"},
 
 {"name": "Happy Chick",
 "version": "1.5.8.2",
@@ -45,7 +45,7 @@
 {"name": "Peachy Pro",
 "version": "1.26.9",
 "downloadURL": "https://dl.dropboxusercontent.com/s/51znmou6fi0rkvr/Peachy.Pro1.26.0NewApp.vn.ipa?dl=0",
-"iconURL": "https://inds.nerd.net/Resources/required/AppIcon256.png"},
+"iconURL": "https://raw.githubusercontent.com/Nguyenhuyhoan/icons/main/Peachy.png"},
 
 {"name": "TikTok Trung Quốc",
 "version": "19.0.0",
@@ -55,12 +55,12 @@
 {"name": "Viva Video ++",
 "version": "8.7.3",
 "downloadURL": "https://dl.dropboxusercontent.com/s/uugclrtw5ekkg5h/VivaVideo%2B%2B_8.7.3_LeTi.ipa?dl=0",
-"iconURL": "https://inds.nerd.net/Resources/required/AppIcon256.png"},
+"iconURL": "https://raw.githubusercontent.com/Nguyenhuyhoan/icons/main/VivaVideo.png"},
 
 {"name": "Zalo 2",
 "version": "210902",
 "downloadURL": "https://dl.dropboxusercontent.com/s/0fp04251j0lbr4b/Zalo2_210902_LeTi.ipa?dl=0",
-"iconURL": "https://inds.nerd.net/Resources/required/AppIcon256.png"},
+"iconURL": "https://raw.githubusercontent.com/Nguyenhuyhoan/icons/main/Zalo.png"},
 
 {"name": "iNDS",
 "version": "1.10.7",
