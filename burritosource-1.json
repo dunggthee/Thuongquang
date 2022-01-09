@@ -2,19 +2,65 @@
 	"name": "Burrito's AltStore",
 	"apps": [
 
-{"name": "iNDS",
-"version": "1.10.7",
-"downloadURL": "https://github.com/iNDS-Team/iNDS/releases/download/v1.10.7/iNDS.ipa",
-"iconURL": "https://br.atsit.in/vi/wp-content/uploads/2021/07/cach-tao-vong-lap-video-youtube-tren-iphone-va-ipad-11.jpg",
-"size": 857669,},
-		
+{"name": "CerCube",
+"version": "16.46.5",
+"downloadURL": "https://dl.dropboxusercontent.com/s/7sh9iaz2tbgpiyu/MyTube_Cercube.ipa?dl=1",
+"iconURL": "https://br.atsit.in/vi/wp-content/uploads/2021/07/cach-tao-vong-lap-video-youtube-tren-iphone-va-ipad-11.jpg"},
 
 {"name": "iNDS",
 "version": "1.10.7",
 "downloadURL": "https://github.com/iNDS-Team/iNDS/releases/download/v1.10.7/iNDS.ipa",
-"iconURL": "https://inds.nerd.net/Resources/required/AppIcon256.png",
-"size": 857669,},
+"iconURL": "https://inds.nerd.net/Resources/required/AppIcon256.png"},
 
+{"name": "iNDS",
+"version": "1.10.7",
+"downloadURL": "https://github.com/iNDS-Team/iNDS/releases/download/v1.10.7/iNDS.ipa",
+"iconURL": "https://inds.nerd.net/Resources/required/AppIcon256.png"},
+
+{"name": "iNDS",
+"version": "1.10.7",
+"downloadURL": "https://github.com/iNDS-Team/iNDS/releases/download/v1.10.7/iNDS.ipa",
+"iconURL": "https://inds.nerd.net/Resources/required/AppIcon256.png"},
+
+{"name": "iNDS",
+"version": "1.10.7",
+"downloadURL": "https://github.com/iNDS-Team/iNDS/releases/download/v1.10.7/iNDS.ipa",
+"iconURL": "https://inds.nerd.net/Resources/required/AppIcon256.png"},
+
+{"name": "iNDS",
+"version": "1.10.7",
+"downloadURL": "https://github.com/iNDS-Team/iNDS/releases/download/v1.10.7/iNDS.ipa",
+"iconURL": "https://inds.nerd.net/Resources/required/AppIcon256.png"},
+
+{"name": "iNDS",
+"version": "1.10.7",
+"downloadURL": "https://github.com/iNDS-Team/iNDS/releases/download/v1.10.7/iNDS.ipa",
+"iconURL": "https://inds.nerd.net/Resources/required/AppIcon256.png"},
+
+{"name": "iNDS",
+"version": "1.10.7",
+"downloadURL": "https://github.com/iNDS-Team/iNDS/releases/download/v1.10.7/iNDS.ipa",
+"iconURL": "https://inds.nerd.net/Resources/required/AppIcon256.png"},
+
+{"name": "iNDS",
+"version": "1.10.7",
+"downloadURL": "https://github.com/iNDS-Team/iNDS/releases/download/v1.10.7/iNDS.ipa",
+"iconURL": "https://inds.nerd.net/Resources/required/AppIcon256.png"},
+
+{"name": "iNDS",
+"version": "1.10.7",
+"downloadURL": "https://github.com/iNDS-Team/iNDS/releases/download/v1.10.7/iNDS.ipa",
+"iconURL": "https://inds.nerd.net/Resources/required/AppIcon256.png"},
+
+{"name": "iNDS",
+"version": "1.10.7",
+"downloadURL": "https://github.com/iNDS-Team/iNDS/releases/download/v1.10.7/iNDS.ipa",
+"iconURL": "https://inds.nerd.net/Resources/required/AppIcon256.png"},
+
+{"name": "iNDS",
+"version": "1.10.7",
+"downloadURL": "https://github.com/iNDS-Team/iNDS/releases/download/v1.10.7/iNDS.ipa",
+"iconURL": "https://inds.nerd.net/Resources/required/AppIcon256.png"},
 
 
 
@@ -27,17 +73,5 @@
 
 
 		
-{
-			"title": "Welcome to Burrito's AltStore",
-			"identifier": "connection",
-			"caption": "Release Channel: source | Version: 1.0b | Tap to visit our website.",
-			"tintColor": "FF9500",
-			"url": "https://burritosoftware.github.io/altstore",
-			"date": "2020-02-14",
-			"notify": false
-		}
-	],
-	"userInfo": {
-		"patreonAccessToken": "JLh5bpOQsPg-HIRe6FHnRAktoeeU4JT5-Xk-y7njQrM"
-	}
+
 }
